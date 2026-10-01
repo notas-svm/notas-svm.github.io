@@ -43,7 +43,10 @@ function updateCount(n){count.textContent=n+(n===1?' documento cadastrado':' doc
 function runSearch(v){v=(v||q.value||topq.value).trim();q.value=v;topq.value=v;const terms=norm(v).split(/\s+/).filter(Boolean);let shown=0;docs.forEach(doc=>{const hay=norm(doc.dataset.search+' '+doc.textContent);const ok=!terms.length||terms.every(t=>hay.includes(t));doc.style.display=ok?'block':'none';if(ok)shown++});nores.style.display=shown?'none':'block';updateCount(shown);document.getElementById('biblioteca').scrollIntoView({behavior:'smooth'})}
 function toggleSummary(id){const d=document.getElementById(id);d.classList.toggle('summary-open');d.querySelector('.summary-btn').textContent=d.classList.contains('summary-open')?'Fechar resumo':'Resumo da Nota'}
 function toggleDoc(id){const d=document.getElementById(id);d.classList.toggle('open');d.querySelector('.detail-btn').textContent=d.classList.contains('open')?'Fechar cadastro':'Ver cadastro completo'}
-[q,topq].forEach(el=>el.addEventListener('keydown',e=>{if(e.key==='Enter')runSearch(el.value)}));
+[q,topq].forEach(el=>{
+  el.addEventListener('keydown',e=>{if(e.key==='Enter')runSearch(el.value)});
+  el.addEventListener('input',()=>runSearch(el.value));
+});
 document.querySelectorAll('[data-query]').forEach(el=>el.onclick=()=>runSearch(el.dataset.query));
 document.querySelectorAll('[data-go]').forEach(el=>el.onclick=()=>document.getElementById(el.dataset.go).scrollIntoView({behavior:'smooth'}));
 init();
