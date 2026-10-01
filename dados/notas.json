@@ -87,7 +87,8 @@
       "titulo": "Fluxograma — Dengue: manejo do paciente na APS",
       "texto": "Material visual associado ao registro, atualizado em fevereiro de 2025 pela SMS-Rio. Resume a abordagem desde o paciente com febre até a classificação nos grupos A, B1, B2, C e D.",
       "url": "https://riosemdengue.prefeitura.rio/wp-content/uploads/2025/03/Livro_PlanoDeContingenciaDeArboviroses2024-2026_PDFDigital_20240212.pdf#page=39&view=FitH"
-    }
+    },
+    "dataOrdenacao": "2025-02-25"
   },
   {
     "id": "it-teste-pezinho-2026",
@@ -188,7 +189,8 @@
     "relacionados": "O Informe cita, entre suas bases, as Portarias de Consolidação GM/MS nº 2 e nº 5/2017, Lei Federal nº 14.154/2021, Portaria GM/MS nº 1.369/2022, Portaria GM/MS nº 7.293/2025, Deliberação CIB-RJ nº 7.892, Resolução SES-RJ nº 1.799/2019, Nota Técnica nº 36/2022-CGSH/DAET/SAES/MS e PCDTs/documentos específicos das doenças triadas. São tratados como referências citadas, sem pressupor que já integrem este acervo.",
     "impacto": "<b>Sim — merece revisão clínica/operacional.</b> O documento detalha coleta do teste do pezinho, recoleta, busca ativa, acompanhamento territorial, notificação e encaminhamento de casos suspeitos ou confirmados. Seus fluxos podem ser úteis para outros projetos clínicos, mas não são automaticamente transformados em protocolo próprio.",
     "duvidas": "Não foi realizada verificação externa da vigência atual ou de eventual documento posterior. O arquivo recebido é identificado oficialmente como <b>Informe Técnico nº 1/2026</b>, embora “Nota Técnica TP 2026” seja mantido como termo de busca.",
-    "documento": "https://www.saude.rj.gov.br/comum/code/MostrarArquivo.php?C=Nzc0ODA%2C"
+    "documento": "https://www.saude.rj.gov.br/comum/code/MostrarArquivo.php?C=Nzc0ODA%2C",
+    "dataOrdenacao": "2026"
   },
   {
     "id": "nt-genotipagem-hiv-74-2026",
@@ -264,7 +266,8 @@
     "relacionados": "A Nota cita, entre suas referências, o PCDT para PrEP Oral à Infecção pelo HIV (2025), o PCDT para Manejo da Infecção pelo HIV em Adultos — Módulo 1: Tratamento (2024), o Manual Técnico para Avaliação de Exames de Genotipagem do HIV (2019), o Manual Técnico para Diagnóstico da Infecção pelo HIV em Adultos e Crianças (2018), a Nota Técnica nº 142/2025-CGHA/DATHI/SVSA/MS e a Nota Técnica nº 283/2023-CGAHV/DATHI/SVSA/MS. São referências citadas, sem pressupor que integrem este acervo.",
     "impacto": "<b>Sim — merece revisão clínica e operacional.</b> O documento altera critérios e formulário de solicitação da genotipagem, define situações prioritárias e critérios de falha virológica, amplia a recomendação de profissionais solicitantes na categoria pré-tratamento e modifica aspectos logísticos da coleta e processamento das amostras.",
     "duvidas": "A presença do documento em página oficial do Ministério da Saúde foi confirmada, mas o cadastro mantém o status documental como <b>Situação não determinada</b> por não ter sido realizada investigação específica de eventual revogação, substituição ou atualização posterior.",
-    "documento": "documentos/2026/DOC-20260612-WA0061.pdf"
+    "documento": "documentos/2026/DOC-20260612-WA0061.pdf",
+    "dataOrdenacao": "2026-06-12"
   },
   {
     "id": "guia-chikungunya-2025",
@@ -294,8 +297,8 @@
       "Aborda diagnóstico laboratorial, notificação, investigação de óbitos e organização dos serviços.",
       "Define a atenção básica como porta de entrada preferencial para a maioria dos pacientes."
     ],
-    "versao": "<b>Documento principal:</b> 2ª edição revisada — 2025, versão eletrônica.<br><b>Versão anterior preservada:</b> 2ª edição — 2024, disponível no portal oficial do Ministério da Saúde.<br><b>Material associado:</b> Fluxograma 2 — Manejo das manifestações musculoesqueléticas da chikungunya no adulto.<br><b>Relação documental:</b> a publicação de 2025 se identifica como 2ª edição revisada. A versão de 2024 é preservada para rastreabilidade, sem atribuição adicional de revogação/substituição não documentada.<br><b>Status:</b> situação não determinada.",
-    "conteudo": "O registro reúne o guia nacional de manejo da chikungunya e seus materiais diretamente relacionados. A 2ª edição revisada — 2025 permanece como documento principal; a 2ª edição — 2024 é preservada como versão anterior. O manual contempla aspectos clínicos, diagnóstico diferencial, atendimento, exames complementares, manejo nas diferentes fases, populações especiais, confirmação laboratorial, vigilância e investigação de óbitos. O Fluxograma 2 organiza visualmente o manejo das manifestações musculoesqueléticas no adulto nas fases aguda, pós-aguda e crônica, incluindo EVA, analgesia, artrite/tenossinovite, dor neuropática, reavaliação e encaminhamento. O Anexo B apresenta o questionário DN4.",
+    "versao": "<b>Versão identificada:</b> 2ª edição revisada — 2025, versão eletrônica.<br><b>Relação formal:</b> o documento se identifica como segunda edição revisada, sem registro neste cadastro de revogação/substituição formal de versão anterior.<br><b>Status:</b> situação não determinada.",
+    "conteudo": "O manual contempla aspectos clínicos, diagnóstico diferencial, atendimento, exames complementares, manejo nas diferentes fases, populações especiais, confirmação laboratorial, definições e ações de vigilância e investigação de óbitos. O Anexo A reúne fluxogramas de classificação de risco e manejo musculoesquelético em adultos e crianças; o Anexo B apresenta o questionário DN4 para dor neuropática.",
     "tags": [
       "chikungunya",
       "manejo clínico",
@@ -336,18 +339,10 @@
       "dor crônica chikungunya",
       "tratamento chikungunya"
     ],
-    "relacionados": "<b>Versão anterior do mesmo guia:</b> Chikungunya: manejo clínico — 2ª edição (Ministério da Saúde, 2024), preservada no registro para rastreabilidade e acesso ao Fluxograma 2.<br><b>Nota Técnica sobre a organização do atendimento às arboviroses pelas equipes de Atenção Primária no Município do Rio de Janeiro (2025):</b> documento relacionado de abrangência municipal, voltado à organização local da assistência. Não foi atribuída relação de substituição ou revogação entre o guia nacional e a Nota Técnica municipal.",
+    "relacionados": "<b>Nota Técnica sobre a organização do atendimento às arboviroses pelas equipes de Atenção Primária no Município do Rio de Janeiro (2025):</b> documento relacionado de abrangência municipal, voltado à organização local da assistência. Não foi atribuída relação de substituição ou revogação entre os documentos.",
     "impacto": "<b>Sim — merece revisão clínica e operacional.</b> O manual é diretamente aplicável à APS por abordar classificação de risco, reconhecimento de formas graves e extra-articulares, manejo da dor nas diferentes fases, acompanhamento prolongado, populações de risco, diagnóstico diferencial e critérios de internação/encaminhamento.",
     "duvidas": "O cadastro mantém o status como <b>Situação não determinada</b>, pois não foi realizada investigação específica de eventual revogação, substituição ou atualização posterior à edição revisada de 2025.",
     "documento": "https://bvsms.saude.gov.br/bvs/publicacoes/chikungunya_manejo_clinico_2ed_rev.pdf",
-    "extraLink": {
-      "rotulo": "Abrir fluxograma — manifestações musculoesqueléticas no adulto ↗",
-      "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/guias-e-manuais/2024/guia-chikungunya-manejo-clinico-2o-edicao.pdf#page=70"
-    },
-    "fluxograma": {
-      "titulo": "Fluxograma 2 — Manejo das manifestações musculoesqueléticas da chikungunya no adulto",
-      "texto": "Material associado ao guia, apresentado no Anexo A da 2ª edição de 2024. Organiza o tratamento das fases aguda, pós-aguda e crônica, com avaliação da dor, analgesia, manejo de artrite/tenossinovite e dor neuropática, além de reavaliação e encaminhamento.",
-      "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/guias-e-manuais/2024/guia-chikungunya-manejo-clinico-2o-edicao.pdf#page=70&view=FitH"
-    }
+    "dataOrdenacao": "2025"
   }
 ]
