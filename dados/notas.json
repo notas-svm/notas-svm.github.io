@@ -1068,5 +1068,86 @@
     "duvidas": "A orientação é explicitamente vinculada a uma situação de contingência de abastecimento. O documento não estabelece no texto uma data automática para encerramento dessa contingência. Portanto, a permanência da orientação não deve ser presumida após normalização do fornecimento; não foi realizada verificação externa de eventual comunicação posterior alterando ou encerrando a medida.",
     "documento": "documentos/2026/Nota%20Tecnica%20sobre%20seringas.pdf",
     "dataOrdenacao": "2026-04-17"
+  },
+  {
+    "id": "manual-enfermagem-dengue-2026",
+    "search": "dengue manual enfermagem 2026 terceira edição 3ª edição revisada ministério saúde svsa departamento doenças transmissíveis cgarb atenção primária aps acolhimento classificação risco estadiamento manejo clínico grupo a grupo b grupo c grupo d sinais alarme dengue grave choque hidratação oral venosa hemograma hematócrito prova do laço enfermagem consulta enfermeiro técnico enfermagem gestante criança idoso comorbidades risco social notificação sinan vigilância epidemiológica prevenção controle organização serviços epidemia arboviroses aedes fluxograma",
+    "categorias": [
+      "Dengue",
+      "Enfermagem",
+      "Atenção Primária",
+      "Vigilância em Saúde"
+    ],
+    "status": "Situação não determinada",
+    "titulo": "Dengue: Manual de Enfermagem — 3ª edição revisada",
+    "identificador": "3ª edição revisada — 2026",
+    "linha": "2026 · Ministério da Saúde / SVSA / Departamento de Doenças Transmissíveis",
+    "descricao": "Manual nacional de apoio à assistência de enfermagem à pessoa com suspeita ou diagnóstico de dengue, com orientações sobre acolhimento, classificação de risco, estadiamento, manejo clínico, consulta de enfermagem, organização dos serviços, prevenção e vigilância.",
+    "resumo": [
+      "Publicação do Ministério da Saúde atualizada em 2026 para orientar a assistência de enfermagem às pessoas com suspeita ou diagnóstico de dengue, alinhada à classificação de risco e às diretrizes nacionais de manejo clínico.",
+      "Aborda espectro clínico, sinais de alarme e gravidade, acolhimento e classificação nos grupos A, B, C e D, consulta de enfermagem, hidratação, acompanhamento, organização dos serviços em epidemias, prevenção e integração entre Vigilância em Saúde e Atenção Primária."
+    ],
+    "identificacao": "<b>Tipo:</b> Manual técnico<br><b>Edição:</b> 3ª edição revisada<br><b>Ano:</b> 2026<br><b>Órgão:</b> Ministério da Saúde<br><b>Setor:</b> Secretaria de Vigilância em Saúde e Ambiente / Departamento de Doenças Transmissíveis<br><b>Abrangência:</b> Nacional — Sistema Único de Saúde (SUS)<br><b>Status:</b> Situação não determinada",
+    "classificacao": "<b>Tema principal:</b> assistência de enfermagem no atendimento à pessoa com suspeita ou diagnóstico de dengue.<br><b>População:</b> pessoas com suspeita ou diagnóstico de dengue, com destaque para crianças, pessoas idosas, gestantes, pessoas com comorbidades e em situação de risco social.<br><b>Áreas:</b> Dengue; Enfermagem; Atenção Primária; Vigilância em Saúde; Classificação de Risco; Organização dos Serviços.",
+    "pontos": [
+      "Atualiza a assistência de enfermagem com base nas diretrizes nacionais de manejo clínico da dengue e em normativas vigentes.",
+      "Orienta acolhimento, classificação de risco e estadiamento clínico, com classificação dos pacientes nos grupos A, B, C e D.",
+      "Reforça a identificação precoce de sinais de alarme e de gravidade e a reclassificação do paciente em cada consulta de retorno.",
+      "Detalha a consulta de enfermagem e as condutas relacionadas aos grupos A, B, C e D.",
+      "Aborda hidratação, acompanhamento ambulatorial, hospitalar ou domiciliar e uso do cartão de acompanhamento da pessoa com suspeita de dengue.",
+      "Inclui orientações para organização dos serviços de saúde em situações de epidemia.",
+      "Reforça notificação, vigilância epidemiológica, prevenção e integração entre Vigilância em Saúde e Atenção Primária."
+    ],
+    "versao": "<b>Versão identificada:</b> 3ª edição revisada, 2026, versão eletrônica.<br><b>Edições anteriores:</b> o próprio manual informa que a publicação existe desde 2008 e foi atualizada nesta edição.<br><b>Status:</b> situação não determinada; não foi realizada verificação de eventual publicação posterior.",
+    "conteudo": "O manual reúne capítulos sobre espectro clínico da dengue; atendimento de enfermagem; acolhimento e classificação de risco; manejo dos grupos A, B, C e D; consulta de enfermagem; organização dos serviços durante epidemias; prevenção e medidas de controle; integração entre Vigilância em Saúde e APS; vigilância epidemiológica; referências e anexos. A página 23 apresenta o fluxograma de estadiamento e manejo clínico da dengue.",
+    "tags": [
+      "dengue",
+      "manual de enfermagem",
+      "enfermagem",
+      "Ministério da Saúde",
+      "SVSA",
+      "APS",
+      "Atenção Primária",
+      "classificação de risco",
+      "estadiamento",
+      "manejo clínico",
+      "grupo A",
+      "grupo B",
+      "grupo C",
+      "grupo D",
+      "sinais de alarme",
+      "dengue grave",
+      "choque",
+      "hidratação",
+      "consulta de enfermagem",
+      "acolhimento",
+      "gestante",
+      "criança",
+      "pessoa idosa",
+      "comorbidades",
+      "risco social",
+      "notificação",
+      "SINAN",
+      "vigilância epidemiológica",
+      "organização dos serviços",
+      "epidemia",
+      "fluxograma dengue",
+      "3ª edição revisada",
+      "2026"
+    ],
+    "relacionados": "O manual informa ter sido atualizado considerando, entre outras referências, a 6ª edição de Dengue: Diagnóstico e Manejo Clínico — Adulto e Criança, o Guia Prático de Arboviroses Urbanas para a Atenção Primária à Saúde e normativas do Ministério da Saúde e do Conselho Federal de Enfermagem. Essas referências não são presumidas como registros separados deste acervo.",
+    "impacto": "<b>Sim — possível impacto direto na prática assistencial e na organização dos serviços.</b> O manual reúne orientações nacionais para classificação de risco, estadiamento, manejo, acompanhamento, hidratação, vigilância e organização da assistência à dengue, com foco específico nas atribuições da equipe de enfermagem.",
+    "duvidas": "A publicação é identificada como 3ª edição revisada, versão eletrônica de 2026. O status foi mantido como situação não determinada, sem presumir vigência exclusiva ou substituição formal de outros documentos do acervo.",
+    "documento": "https://biblioteca.cofen.gov.br/wp-content/uploads/2026/04/dengue-manual-de-enfermagem.pdf",
+    "dataOrdenacao": "2026",
+    "extraLink": {
+      "rotulo": "Abrir fluxograma — estadiamento e manejo clínico da dengue ↗",
+      "url": "https://biblioteca.cofen.gov.br/wp-content/uploads/2026/04/dengue-manual-de-enfermagem.pdf#page=23"
+    },
+    "fluxograma": {
+      "titulo": "Fluxograma de estadiamento e manejo clínico da dengue",
+      "texto": "Fluxograma apresentado na página 23 do manual, com o estadiamento clínico e a orientação de manejo conforme a classificação de risco da dengue.",
+      "url": "https://biblioteca.cofen.gov.br/wp-content/uploads/2026/04/dengue-manual-de-enfermagem.pdf#page=23&view=FitH"
+    }
   }
 ]
