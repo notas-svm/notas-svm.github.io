@@ -988,5 +988,76 @@
       "texto": "Conjunto de quatro fluxogramas, a partir da página 19: avaliação inicial da criança de 0 a 5 anos com tosse e/ou dificuldade respiratória; bronquiolite viral aguda; manejo da asma ou sibilância em menores de cinco anos; e pneumonia adquirida na comunidade (PAC).",
       "url": "documentos/2026/SEI_000900.039055_2026_11.pdf#page=19&view=FitH"
     }
+  },
+  {
+    "id": "oficio-reutilizacao-seringas-insulina-13469-2026",
+    "search": "ofício 13469 2026 nota técnica seringa seringas insulina insulinoterapia reutilização reuso reuso seringa agulha 3 vezes três aplicações mesmo paciente contingência desabastecimento diabetes mellitus dm1 dm2 nph regular caneta insulina carpule tubete aps atenção primária armazenamento higiene rodízio locais aplicação lipo-hipertrofia dor imunossupressão infecção cutânea mistura insulina sms rio subpav sap doenças crônicas",
+    "categorias": [
+      "Diabetes",
+      "Assistência Farmacêutica",
+      "Atenção Primária",
+      "Insumos"
+    ],
+    "status": "Situação não determinada",
+    "titulo": "Ofício SMS nº 13469/2026 — Orientação excepcional para reutilização de seringas de insulina",
+    "identificador": "Ofício SMS nº 13469/2026",
+    "linha": "17/04/2026 · SMS-Rio / SUBPAV / SAP",
+    "descricao": "Esclarece a orientação excepcional de reutilização de seringas de insulina por até três aplicações pelo mesmo usuário da rede municipal, em contexto de contingência de abastecimento.",
+    "resumo": [
+      "Ofício da SMS-Rio que esclarece a orientação emitida no Ofício SMS nº 11961/2026 para reutilização excepcional de seringas de insulina por até três aplicações, exclusivamente pelo mesmo usuário, em razão de contingência no abastecimento.",
+      "Apresenta o contexto do desabastecimento, fundamentos técnicos e regulatórios e orientações práticas para reutilização limitada e criteriosa, incluindo situações em que a seringa deve ser descartada ou não reutilizada."
+    ],
+    "identificacao": "<b>Tipo:</b> Ofício / esclarecimento técnico<br><b>Número:</b> SMS nº 13469/2026<br><b>Data:</b> 17/04/2026<br><b>Ano:</b> 2026<br><b>Órgão:</b> Secretaria Municipal de Saúde do Rio de Janeiro — SMS-Rio<br><b>Setor:</b> SUBPAV / Superintendência de Atenção Primária / Coordenação das Linhas de Cuidado das Doenças Crônicas Não Transmissíveis<br><b>Abrangência:</b> Rede municipal de saúde do Rio de Janeiro, com aplicação operacional na APS<br><b>Processo:</b> 000900.036671/2026-11<br><b>SEI:</b> 3409311<br><b>Status:</b> Situação não determinada",
+    "classificacao": "<b>Tema principal:</b> reutilização excepcional de seringas de insulina em contexto de contingência de abastecimento.<br><b>População:</b> pessoas em insulinoterapia assistidas pela rede municipal.<br><b>Áreas:</b> Diabetes; Assistência Farmacêutica; Atenção Primária; Insulinoterapia; Insumos.",
+    "pontos": [
+      "A orientação é excepcional e decorre de situação de contingência no abastecimento de seringas de insulina na rede municipal.",
+      "Orienta reutilizar a seringa em até três vezes no total, correspondendo a três aplicações por seringa, sempre pela mesma pessoa.",
+      "Após cada uso, orienta reencapar a agulha deslizando a tampa sobre uma superfície plana.",
+      "Orienta não limpar a agulha com álcool, pois o documento informa que isso remove a lubrificação de silicone e acelera o embotamento.",
+      "Recomenda rodízio rigoroso dos locais de aplicação — abdômen, coxas, glúteos e braços — mantendo distância mínima de 1 cm entre aplicações consecutivas.",
+      "Determina descarte imediato se a agulha estiver visivelmente torta, se a injeção causar dor significativamente maior que o habitual ou se a agulha tiver tocado qualquer superfície além da pele.",
+      "Orienta não reutilizar a seringa quando houver mistura de dois tipos de insulina na mesma seringa.",
+      "Orienta não reutilizar em casos de imunossupressão, feridas abertas nas mãos ou infecção cutânea ativa.",
+      "O documento relaciona a contingência à insuficiência de canetas reutilizáveis e ao atraso/descumprimento de entregas de seringas por fornecedores contratados.",
+      "O Ofício apresenta referências do Ministério da Saúde, ANVISA, Sociedade Brasileira de Diabetes e literatura internacional como fundamentação para a orientação."
+    ],
+    "versao": "<b>Documento:</b> Ofício SMS nº 13469/2026, de 17/04/2026.<br><b>Relação:</b> presta esclarecimentos sobre a orientação emitida anteriormente no Ofício SMS nº 11961/2026.<br><b>Natureza da orientação:</b> excepcional, vinculada pelo próprio documento à situação de contingência no abastecimento.<br><b>Status atual:</b> situação não determinada.",
+    "conteudo": "Documento de sete páginas. Descreve o contexto de desabastecimento de canetas e seringas de insulina, os processos de aquisição e entregas, fundamentos citados para reutilização domiciliar pelo mesmo usuário, evidências de segurança apresentadas pela SMS-Rio e orientações operacionais aos usuários e profissionais. O documento não transforma a reutilização em orientação geral desvinculada da contingência: apresenta-a expressamente como medida excepcional.",
+    "tags": [
+      "seringa de insulina",
+      "seringas",
+      "insulina",
+      "insulinoterapia",
+      "reutilização",
+      "reuso de seringa",
+      "3 aplicações",
+      "três aplicações",
+      "mesmo usuário",
+      "contingência",
+      "desabastecimento",
+      "diabetes",
+      "DM1",
+      "DM2",
+      "insulina NPH",
+      "insulina regular",
+      "caneta de insulina",
+      "carpule",
+      "tubete",
+      "rodízio de aplicação",
+      "lipo-hipertrofia",
+      "imunossupressão",
+      "infecção cutânea",
+      "Assistência Farmacêutica",
+      "APS",
+      "SMS-Rio",
+      "SUBPAV",
+      "Ofício 13469/2026",
+      "Ofício 11961/2026"
+    ],
+    "relacionados": "<b>Ofício SMS nº 11961/2026:</b> citado como documento que emitiu a orientação de reutilização em caráter excepcional. O Ofício nº 13469/2026 apresenta esclarecimentos e fundamentação dessa orientação. Também cita o PCDT do Diabetes Melito Tipo 2 do Ministério da Saúde, atualizado pela Portaria SCTIE/MS nº 13, de 21/02/2026, o Guia Rápido de Diabetes da SMS-Rio, normas da ANVISA e referências da Sociedade Brasileira de Diabetes e literatura internacional.",
+    "impacto": "<b>Sim — impacto direto e circunstancial na prática da APS.</b> Estabelece orientação excepcional para dispensação e uso de seringas de insulina durante contingência de abastecimento, com limite de três aplicações pelo mesmo usuário e critérios explícitos de segurança e descarte. Por estar vinculada a uma contingência de insumos, merece atenção especial à vigência operacional.",
+    "duvidas": "A orientação é explicitamente vinculada a uma situação de contingência de abastecimento. O documento não estabelece no texto uma data automática para encerramento dessa contingência. Portanto, a permanência da orientação não deve ser presumida após normalização do fornecimento; não foi realizada verificação externa de eventual comunicação posterior alterando ou encerrando a medida.",
+    "documento": "documentos/2026/Nota%20Tecnica%20sobre%20seringas.pdf",
+    "dataOrdenacao": "2026-04-17"
   }
 ]
