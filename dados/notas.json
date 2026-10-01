@@ -344,5 +344,71 @@
     "duvidas": "O cadastro mantém o status como <b>Situação não determinada</b>, pois não foi realizada investigação específica de eventual revogação, substituição ou atualização posterior à edição revisada de 2025.",
     "documento": "https://bvsms.saude.gov.br/bvs/publicacoes/chikungunya_manejo_clinico_2ed_rev.pdf",
     "dataOrdenacao": "2025"
+  },
+  {
+    "id": "comunicado-hpv-nic-05-2026",
+    "search": "hpv vacina hpv vacinação hpv nic nic 2 nic 3 neoplasia intraepitelial cervical alto grau lesão alto grau hsIL adenocarcinoma in situ ais leep conização procedimento excisional colo útero saúde mulher imunização pni si-pni vitacare n871 n872 d069 prescrição médica comunicado 05 2026 nota técnica 32 2026 cgici dpni svsa ms sms rio subpav cpi",
+    "categorias": [
+      "Imunização",
+      "Saúde da Mulher",
+      "HPV",
+      "Prevenção do câncer do colo do útero"
+    ],
+    "status": "Situação não determinada",
+    "titulo": "Comunicado CPI/SVS nº 05/2026 — Utilização da vacina HPV para mulheres com NIC 2, NIC 3 e Adenocarcinoma in situ (AIS)",
+    "identificador": "Comunicado CPI/SVS nº 05/2026",
+    "linha": "01/04/2026 · SMS-Rio / Coordenação do Programa de Imunizações",
+    "descricao": "Orienta a vacinação contra HPV de mulheres com NIC 2, NIC 3 ou AIS submetidas a procedimento excisional do colo do útero, incluindo esquema vacinal e registro na rede municipal.",
+    "resumo": [
+      "Comunicado da SMS-Rio que operacionaliza a vacinação contra HPV de mulheres com NIC 2, NIC 3 ou adenocarcinoma in situ (AIS) submetidas a procedimento excisional do colo do útero (LEEP/conização), independentemente da idade, inclusive acima de 45 anos.",
+      "Define esquema de três doses (0, 2 e 6 meses), orienta o registro no PEP VitaCare e no SI-PNI e estabelece documentação necessária para vacinação."
+    ],
+    "identificacao": "<b>Tipo:</b> Comunicado<br><b>Número:</b> CPI/SVS nº 05/2026<br><b>Data:</b> 01/04/2026<br><b>Ano:</b> 2026<br><b>Órgão:</b> Secretaria Municipal de Saúde do Rio de Janeiro<br><b>Setor:</b> Coordenação do Programa de Imunizações / SVS / SUBPAV / SMS-Rio<br><b>Abrangência:</b> Município do Rio de Janeiro<br><b>Status:</b> Situação não determinada",
+    "classificacao": "<b>Tema principal:</b> vacinação contra HPV após tratamento excisional de lesões cervicais de alto grau.<br><b>População:</b> mulheres com NIC 2, NIC 3 ou AIS submetidas a LEEP/conização, independentemente da idade, inclusive acima de 45 anos.<br><b>Áreas:</b> Imunização; Saúde da Mulher; HPV; Prevenção do câncer do colo do útero.",
+    "pontos": [
+      "Inclui mulheres com NIC 2, NIC 3 ou AIS submetidas a LEEP/conização entre as situações contempladas para vacinação contra HPV.",
+      "Orienta esquema vacinal de três doses: 0, 2 e 6 meses.",
+      "Nas UAPs, detalha o registro no PEP VitaCare pela opção Outras Vacinas — HPV e Estratégia Especial.",
+      "Orienta registrar os CIDs N87.1 para NIC 2, N87.2 para NIC 3 e D06.9 para AIS.",
+      "Para vacinação, exige prescrição médica da rede pública ou particular, comprovação diagnóstica e descrição de tratamento iniciado ou finalizado em até 12 meses.",
+      "Também detalha o registro no SI-PNI para policlínicas, hospitais, CRIEs e Super Centros."
+    ],
+    "versao": "<b>Documento de referência:</b> Nota Técnica nº 32/2026-CGICI/DPNI/SVSA/MS.<br><b>Relação:</b> o Comunicado declara que a Nota Técnica do Ministério da Saúde fundamenta a inclusão desse grupo como prioritário para vacinação contra HPV pelo PNI.<br><b>Relação formal de revogação/substituição:</b> não identificada neste documento.",
+    "conteudo": "O comunicado reúne indicação, esquema vacinal, orientações de registro no PEP VitaCare e SI-PNI, documentação necessária para vacinação e boas práticas de vacinação segura. As instruções de registro em sistemas locais são apresentadas como orientações operacionais da rede municipal do Rio de Janeiro.",
+    "tags": [
+      "HPV",
+      "vacina HPV",
+      "vacinação HPV",
+      "NIC",
+      "NIC 2",
+      "NIC 3",
+      "N87.1",
+      "N87.2",
+      "neoplasia intraepitelial cervical",
+      "lesão de alto grau",
+      "HSIL",
+      "adenocarcinoma in situ",
+      "AIS",
+      "D06.9",
+      "colo do útero",
+      "conização",
+      "LEEP",
+      "procedimento excisional",
+      "pós-conização",
+      "pós-LEEP",
+      "imunização",
+      "PNI",
+      "SI-PNI",
+      "VitaCare",
+      "saúde da mulher",
+      "prescrição médica",
+      "Nota Técnica 32/2026",
+      "Comunicado 05/2026"
+    ],
+    "relacionados": "<b>Nota Técnica nº 32/2026-CGICI/DPNI/SVSA/MS:</b> citada expressamente como fundamento para a inclusão de mulheres com NIC 2, NIC 3 e AIS submetidas a procedimento excisional do colo do útero como grupo prioritário para vacinação contra HPV pelo PNI. A Nota Técnica nacional não foi incorporada a este registro como se fosse o documento principal.",
+    "impacto": "<b>Sim — merece revisão clínica e operacional.</b> O comunicado explicita uma indicação de vacinação contra HPV relevante para a APS e estabelece procedimentos locais de registro no VitaCare e SI-PNI, além da documentação exigida para vacinação.",
+    "duvidas": "Não foi realizada verificação externa da vigência atual nem de eventual documento posterior. O arquivo recebido é o <b>Comunicado CPI/SVS nº 05/2026</b>; a Nota Técnica nº 32/2026-CGICI/DPNI/SVSA/MS é citada como documento de referência, mas não foi fornecida como documento principal.",
+    "documento": "",
+    "dataOrdenacao": "2026-04-01"
   }
 ]
