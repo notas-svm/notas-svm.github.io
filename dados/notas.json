@@ -798,6 +798,15 @@
     "impacto": "<b>Sim — impacto direto na prática e na regulação da APS municipal.</b> Define rastreamento e vigilância do desenvolvimento, critérios objetivos para encaminhamento no SISREG, investigação complementar, documentação e articulação entre APS, E-Multi DI, CAPSi e reabilitação.",
     "duvidas": "Não foi realizada verificação externa de vigência ou de atualização posterior a setembro de 2023. O documento apresenta uma aparente diferença entre a descrição textual do AQ-10 (6–10 pontos para encaminhamento) e o texto do anexo, que menciona resultado superior a 6 pontos como alto risco; o cadastro preserva a orientação do corpo principal da Nota Técnica e não reconcilia essa divergência por conta própria.",
     "documento": "documentos/2026/NT%20SMSRJ_Fluxo%20eMulti%20DI_TEA_Set23.pdf",
-    "dataOrdenacao": "2023-09-12"
+    "dataOrdenacao": "2023-09-12",
+    "extraLink": {
+      "rotulo": "Abrir fluxograma — avaliação da criança com suspeita de autismo ↗",
+      "url": "documentos/2026/NT%20SMSRJ_Fluxo%20eMulti%20DI_TEA_Set23.pdf#page=7"
+    },
+    "fluxograma": {
+      "titulo": "Fluxograma para avaliação da criança com suspeita de autismo",
+      "texto": "Fluxograma da Nota Técnica que organiza a avaliação conforme faixa etária e risco, articulando Vigilância Global do Desenvolvimento, M-CHAT, AQ-10, E-Multi DI, CAPSi e APS.",
+      "url": "documentos/2026/NT%20SMSRJ_Fluxo%20eMulti%20DI_TEA_Set23.pdf#page=7&view=FitH"
+    }
   }
 ]
