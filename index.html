@@ -1,7 +1,255 @@
-<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>NOTAS TÉCNICAS — SVM</title><link rel="stylesheet" href="css/site.css"></head><body>
-<header class="topbar"><div class="identity"><img class="logo" src="fachada-svm-logo-clean.png" alt="Fachada da Clínica da Família Sérgio Vieira de Mello"><div><b>NOTAS TÉCNICAS — SVM</b><small>Clínica da Família Sérgio Vieira de Mello</small><small class="collection-start">Acervo incorporado a partir de 25/09/2026</small></div></div>
-<nav class="nav"><button class="active" data-go="inicio">⌂ <span>Início</span></button><button data-go="biblioteca">▤ <span>Notas Técnicas</span></button><button data-query="Categorias">◇ <span>Categorias</span></button><button data-go="sobre">ⓘ <span>Sobre</span></button></nav><div class="topsearch">⌕<input id="topq" placeholder="Buscar notas técnicas..."></div></header>
-<section class="hero" id="inicio"><div class="hero-content"><div class="eyebrow">BIBLIOTECA CLÍNICA INTELIGENTE</div><h1>Clínica da Família<br><span>Sérgio Vieira de Mello</span></h1><h2>Encontre a nota certa quando precisar.</h2><p>Notas Técnicas e documentos institucionais organizados para consulta rápida pela equipe da Clínica da Família Sérgio Vieira de Mello.</p><div class="main-search"><span style="font-size:26px;color:#183b5d">⌕</span><input id="q" placeholder="Buscar por tema, palavra-chave, data ou documento..."><button onclick="runSearch()">Buscar</button></div></div>
-<div class="cards"><button class="card" data-query="Condições Clínicas"><span class="ico">♧</span><span><b>Condições Clínicas</b><small>HTA, DM, saúde mental, infecções e mais</small></span><span class="arrow">›</span></button><button class="card" data-query="Ciclos de Vida"><span class="ico">♟</span><span><b>Ciclos de Vida</b><small>Criança, adolescente, adulto, idoso</small></span><span class="arrow">›</span></button><button class="card" data-query="Procedimentos"><span class="ico">✎</span><span><b>Procedimentos</b><small>Imunizações, pequenos procedimentos, rastreamento</small></span><span class="arrow">›</span></button><button class="card" data-query="Programas e Linhas de Cuidado"><span class="ico">▤</span><span><b>Programas e Linhas de Cuidado</b><small>Saúde da mulher, saúde do homem, crônicos e mais</small></span><span class="arrow">›</span></button><button class="card" data-query="Documentos Institucionais"><span class="ico">▥</span><span><b>Documentos Institucionais</b><small>Notas técnicas, fluxos, protocolos e orientações</small></span><span class="arrow">›</span></button></div></section>
-<main class="library" id="biblioteca"><div class="library-head"><h2>Notas Técnicas</h2><span id="count">Carregando acervo...</span></div><div id="lista-notas"></div><div class="panel search-empty" id="searchEmpty"><b>Nenhum documento encontrado.</b><br><span>Tente outro termo, sinônimo, procedimento ou condição clínica.</span></div></main>
-<section id="sobre" style="max-width:1180px;margin:0 auto 70px;padding:0 24px"><div class="panel"><b>Sobre a biblioteca</b><p style="color:#71839a;margin-bottom:0">Repositório documental independente da Clínica da Família Sérgio Vieira de Mello.</p></div></section><footer>NOTAS TÉCNICAS — SVM · Clínica da Família Sérgio Vieira de Mello</footer><script src="js/app.js"></script></body></html>
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>NOTAS TÉCNICAS — SVM</title>
+  <link rel="stylesheet" href="css/site.css">
+</head>
+
+<body>
+
+<header class="topbar">
+  <div class="identity">
+    <img
+      class="logo"
+      src="fachada-svm-logo-clean.png"
+      alt="Fachada da Clínica da Família Sérgio Vieira de Mello"
+    >
+
+    <div>
+      <b>NOTAS TÉCNICAS — SVM</b>
+      <small>Clínica da Família Sérgio Vieira de Mello</small>
+      <small class="collection-start">
+        Acervo incorporado a partir de 25/09/2026
+      </small>
+    </div>
+  </div>
+
+  <nav class="nav">
+    <button class="active" data-go="inicio">
+      ⌂ <span>Início</span>
+    </button>
+
+    <button data-go="biblioteca">
+      ▤ <span>Notas Técnicas</span>
+    </button>
+
+    <button data-query="Categorias">
+      ◇ <span>Categorias</span>
+    </button>
+
+    <button data-go="sobre">
+      ⓘ <span>Sobre</span>
+    </button>
+  </nav>
+
+  <div class="topsearch">
+    ⌕
+    <input id="topq" placeholder="Buscar notas técnicas...">
+  </div>
+</header>
+
+
+<section class="hero" id="inicio">
+
+  <div class="hero-content">
+
+    <div class="eyebrow">
+      BIBLIOTECA CLÍNICA INTELIGENTE
+    </div>
+
+    <h1>
+      Clínica da Família<br>
+      <span>Sérgio Vieira de Mello</span>
+    </h1>
+
+    <h2>
+      Encontre a nota certa quando precisar.
+    </h2>
+
+    <p>
+      Notas Técnicas e documentos institucionais organizados para consulta rápida
+      pela equipe da Clínica da Família Sérgio Vieira de Mello.
+    </p>
+
+    <div class="main-search">
+
+      <span style="font-size:26px;color:#183b5d">
+        ⌕
+      </span>
+
+      <input
+        id="q"
+        placeholder="Buscar por tema, palavra-chave, data ou documento..."
+      >
+
+      <button onclick="runSearch()">
+        Buscar
+      </button>
+
+    </div>
+
+  </div>
+
+
+  <div class="cards">
+
+    <button class="card" data-query="Condições Clínicas">
+
+      <span class="ico">♧</span>
+
+      <span>
+        <b>Condições Clínicas</b>
+        <small>HTA, DM, saúde mental, infecções e mais</small>
+      </span>
+
+      <span class="arrow">›</span>
+
+    </button>
+
+
+    <button class="card" data-query="Ciclos de Vida">
+
+      <span class="ico">♟</span>
+
+      <span>
+        <b>Ciclos de Vida</b>
+        <small>Criança, adolescente, adulto, idoso</small>
+      </span>
+
+      <span class="arrow">›</span>
+
+    </button>
+
+
+    <button class="card" data-query="Procedimentos">
+
+      <span class="ico">✎</span>
+
+      <span>
+        <b>Procedimentos</b>
+        <small>Imunizações, pequenos procedimentos, rastreamento</small>
+      </span>
+
+      <span class="arrow">›</span>
+
+    </button>
+
+
+    <button class="card" data-query="Programas e Linhas de Cuidado">
+
+      <span class="ico">▤</span>
+
+      <span>
+        <b>Programas e Linhas de Cuidado</b>
+        <small>Saúde da mulher, saúde do homem, crônicos e mais</small>
+      </span>
+
+      <span class="arrow">›</span>
+
+    </button>
+
+
+    <button class="card" data-query="Documentos Institucionais">
+
+      <span class="ico">▥</span>
+
+      <span>
+        <b>Documentos Institucionais</b>
+        <small>Notas técnicas, fluxos, protocolos e orientações</small>
+      </span>
+
+      <span class="arrow">›</span>
+
+    </button>
+
+  </div>
+
+</section>
+
+
+<main class="library" id="biblioteca">
+
+  <div class="library-head">
+
+    <h2>
+      Notas Técnicas
+    </h2>
+
+    <span id="count">
+      Carregando acervo...
+    </span>
+
+  </div>
+
+
+  <div id="lista-notas"></div>
+
+
+  <div class="panel search-empty" id="searchEmpty">
+
+    <b>
+      Nenhum documento encontrado.
+    </b>
+
+    <br>
+
+    <span>
+      Tente outro termo, sinônimo, procedimento ou condição clínica.
+    </span>
+
+  </div>
+
+</main>
+
+
+<section
+  id="sobre"
+  style="max-width:1180px;margin:0 auto 70px;padding:0 24px"
+>
+
+  <div class="panel">
+
+    <b>
+      Sobre a biblioteca
+    </b>
+
+    <p style="color:#71839a">
+      A Biblioteca de Notas Técnicas — SVM é um repositório documental
+      desenvolvido para facilitar o acesso, a organização e a consulta de
+      Notas Técnicas e outros documentos institucionais relevantes para a
+      prática na Atenção Primária à Saúde.
+    </p>
+
+    <p style="color:#71839a">
+      O projeto foi
+      <strong>
+        idealizado e desenvolvido por Guilherme Wanderley, médico de Família
+        e Comunidade
+      </strong>,
+      como uma ferramenta de apoio à equipe da Clínica da Família
+      Sérgio Vieira de Mello.
+    </p>
+
+    <p style="color:#71839a;margin-bottom:0">
+      Os documentos originais permanecem como fonte primária das informações.
+      Os resumos, classificações, palavras-chave e demais elementos de
+      organização têm a finalidade de facilitar a consulta e não substituem
+      a leitura dos documentos oficiais.
+    </p>
+
+  </div>
+
+</section>
+
+
+<footer>
+  NOTAS TÉCNICAS — SVM · Clínica da Família Sérgio Vieira de Mello
+</footer>
+
+
+<script src="js/app.js"></script>
+
+</body>
+</html>
