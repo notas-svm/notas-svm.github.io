@@ -27,7 +27,16 @@ function render(n){
 async function init(){
  try{
    const r=await fetch('dados/notas.json',{cache:'no-store'}); if(!r.ok)throw new Error('HTTP '+r.status);
-   notas=await r.json(); lista.innerHTML=notas.map(render).join(''); docs=[...document.querySelectorAll('.doc')]; updateCount(docs.length);
+   notas=await r.json();
+   notas.sort((a,b)=>{
+     const partes=s=>String(s||'').split('-').map(Number);
+     const chave=s=>{
+       const [ano=0,mes=0,dia=0]=partes(s);
+       return (ano*10000)+(mes*100)+dia;
+     };
+     return chave(b.dataOrdenacao)-chave(a.dataOrdenacao);
+   });
+   lista.innerHTML=notas.map(render).join(''); docs=[...document.querySelectorAll('.doc')]; updateCount(docs.length);
  }catch(e){lista.innerHTML='<div class="panel"><b>Não foi possível carregar o acervo.</b><p>Verifique se o arquivo dados/notas.json foi publicado corretamente.</p></div>';console.error(e)}
 }
 function updateCount(n){count.textContent=n+(n===1?' documento cadastrado':' documentos cadastrados')}
