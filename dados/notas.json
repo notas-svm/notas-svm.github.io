@@ -895,5 +895,98 @@
       "texto": "Fluxograma do Anexo 4 para serviços de saúde de porta de entrada (APS, UPA, emergência, hospitais e policlínicas): identificação do caso suspeito, isolamento imediato, notificação e comunicação em até 24 horas, investigação e registro e acionamento para transferência.",
       "url": "documentos/2026/Nota%20Te%CC%81cnica%20Doenc%CC%A7a%20pelo%20Vi%CC%81rus%20Bundibugyo%20(DVB)%20-%20Ebola%20-%20SVS_CIEVS%20Rio%2003.06.26%20-%20Ofi%CC%81cio%20SMS%20n%C2%BA%2019459_2026.pdf#page=16&view=FitH"
     }
+  },
+  {
+    "id": "nt-sindromes-respiratorias-agudas-aps-rio-2026",
+    "search": "nota técnica manejo síndromes respiratórias agudas SRA APS atenção primária Rio criança pediatria tosse dificuldade respiratória síndrome gripal SG SRAG bronquiolite viral aguda VSR asma sibilância broncoespasmo pneumonia adquirida comunidade PAC influenza covid covid-19 SARS-CoV-2 oseltamivir amoxicilina azitromicina ceftriaxona salbutamol prednisolona nirsevimabe palivizumabe abrysvo vacinação influenza vaga zero sinais alarme isolamento vigilância DVS CIEVS SOAP protocolo interativo monitor carioquinha fluxograma respiratório",
+    "categorias": [
+      "Atenção Primária",
+      "Saúde da Criança",
+      "Doenças Respiratórias",
+      "Vigilância em Saúde",
+      "Procedimentos"
+    ],
+    "status": "Situação não determinada",
+    "titulo": "Nota Técnica — Manejo das Síndromes Respiratórias Agudas pelas equipes de Atenção Primária na cidade do Rio de Janeiro",
+    "identificador": "Ofício SMS nº 14428/2026",
+    "linha": "28/04/2026 · SMS-Rio / SUBPAV / SAP / SVS",
+    "descricao": "Orienta a avaliação, estratificação de risco, manejo e acompanhamento das síndromes respiratórias agudas na APS, com foco especial em crianças, além de prevenção, vigilância, isolamento e articulação com a DVS.",
+    "resumo": [
+      "Nota Técnica atualizada em 28/04/2026 para estruturar o manejo e a prevenção de riscos relacionados às síndromes respiratórias agudas nas unidades de Atenção Primária do Rio de Janeiro, com destaque para crianças e gestantes.",
+      "Organiza o episódio de cuidado pediátrico, classificação sindrômica, manejo farmacológico, prevenção de influenza e VSR, organização dos serviços, isolamento de SG/SRAG, notificação e articulação APS–Vigilância."
+    ],
+    "identificacao": "<b>Tipo:</b> Nota Técnica publicada por Ofício<br><b>Ofício:</b> SMS nº 14428/2026<br><b>Data:</b> 28/04/2026<br><b>Ano:</b> 2026<br><b>Órgão:</b> Secretaria Municipal de Saúde do Rio de Janeiro — SMS-Rio<br><b>Setores:</b> SUBPAV / Superintendência de Atenção Primária e Superintendência de Vigilância em Saúde<br><b>Abrangência:</b> Atenção Primária do Município do Rio de Janeiro<br><b>Processo:</b> 000900.039055/2026-11<br><b>SEI:</b> 3590876 (Ofício) / 3593366 (Nota Técnica)<br><b>Status:</b> Situação não determinada",
+    "classificacao": "<b>Tema principal:</b> manejo das síndromes respiratórias agudas na APS.<br><b>População:</b> usuários atendidos na APS, com foco detalhado em crianças de até 5 anos e medidas preventivas para grupos vulneráveis.<br><b>Condições destacadas:</b> IVAS/síndrome gripal, bronquiolite viral aguda, broncoespasmo/asma, pneumonia adquirida na comunidade e SRAG.<br><b>Áreas:</b> Atenção Primária; Saúde da Criança; Doenças Respiratórias; Vigilância em Saúde; Imunização; Regulação/Vaga Zero.",
+    "pontos": [
+      "Estrutura o atendimento inicial da criança com quadro respiratório agudo em etapas: recepção e identificação de sinais de alarme, sinais vitais, avaliação médica e/ou de enfermagem, estratificação de risco, classificação sindrômica e manejo.",
+      "Classifica os principais quadros pediátricos em IVAS/síndrome gripal sem sinais de gravidade, bronquiolite, broncoespasmo/asma e pneumonia adquirida na comunidade.",
+      "Orienta solicitação de vaga zero nos casos indicados, com manejo dos sinais de gravidade enquanto se aguarda a ambulância e orientação de retorno após a alta.",
+      "Apresenta recomendações farmacológicas relacionadas aos fluxogramas, incluindo antitérmicos, oseltamivir, antibióticos para pneumonia e broncodilatadores conforme indicação.",
+      "Apresenta ferramentas de apoio à decisão e continuidade do cuidado, incluindo Cartão de Acompanhamento, Protocolo Interativo SRA Pediátrica e Monitor Carioquinha.",
+      "Aborda vacinação contra influenza e prevenção de bronquiolite por VSR, incluindo vacinação materna e profilaxia com palivizumabe e nirsevimabe no contexto descrito para 2026.",
+      "Orienta organização do serviço, treinamento das equipes, identificação precoce de sinais de alarme, separação de pacientes sintomáticos respiratórios e monitoramento de insumos.",
+      "Traz recomendações de isolamento para Síndrome Gripal e SRAG conforme a Nota Técnica nº 5/2026-CGCOVID/DEDT/SVSA/MS citada no documento.",
+      "Define aspectos de notificação e investigação de SG e SRAG e reforça a articulação permanente entre APS, DVS e Unidade de Resposta Rápida.",
+      "Os anexos das páginas 19 a 22 reúnem quatro fluxogramas: avaliação inicial da criança de 0 a 5 anos com tosse/dificuldade respiratória; bronquiolite viral aguda; asma/sibilância em menores de cinco anos; e pneumonia adquirida na comunidade."
+    ],
+    "versao": "<b>Atualização identificada:</b> 28 de abril de 2026.<br><b>Documento:</b> Nota Técnica Manejo de SRA pela APS da cidade do Rio de Janeiro (SEI 3593366), encaminhada pelo Ofício SMS nº 14428/2026.<br><b>Status:</b> situação não determinada. Não foi identificada, no próprio documento, declaração formal de revogação ou substituição integral de uma versão municipal anterior.",
+    "conteudo": "Documento de 23 páginas. A Nota Técnica ocupa as páginas 3 a 18 e aborda cuidado de quadros respiratórios agudos em crianças, registro SOAP, classificação clínica, manejo farmacológico, ferramentas de apoio à decisão, vacinação contra influenza, profilaxia do VSR, organização dos serviços, isolamento de SG/SRAG, notificação e integração APS–Vigilância. As páginas 19 a 22 apresentam quatro fluxogramas clínicos; a página 23 contém a lista de contatos das DVS.",
+    "tags": [
+      "síndromes respiratórias agudas",
+      "SRA",
+      "infecção respiratória aguda",
+      "IRA",
+      "síndrome gripal",
+      "SG",
+      "SRAG",
+      "pediatria",
+      "saúde da criança",
+      "tosse",
+      "dificuldade respiratória",
+      "bronquiolite",
+      "VSR",
+      "asma",
+      "sibilância",
+      "broncoespasmo",
+      "pneumonia",
+      "PAC",
+      "influenza",
+      "covid-19",
+      "SARS-CoV-2",
+      "oseltamivir",
+      "amoxicilina",
+      "azitromicina",
+      "ceftriaxona",
+      "salbutamol",
+      "prednisolona",
+      "nirsevimabe",
+      "palivizumabe",
+      "Abrysvo",
+      "vacinação influenza",
+      "vaga zero",
+      "sinais de alarme",
+      "isolamento",
+      "SOAP",
+      "DVS",
+      "CIEVS Rio",
+      "URR",
+      "Monitor Carioquinha",
+      "Protocolo Interativo SRA Pediátrica",
+      "Ofício SMS 14428/2026"
+    ],
+    "relacionados": "O documento cita, entre suas bases, a Nota Técnica nº 5/2026-CGCOVID/DEDT/SVSA/MS sobre isolamento de SG/SRAG, a Nota Técnica nº 31/2026-CGICI/DPNI/SVSA/MS sobre nirsevimabe, Nota Técnica Informativa nº 01/2026-SUPAFIE/SUBAS/SES-RJ sobre profilaxia do VSR, GINA 2025, AIDPI, SBP e Guia Rápido de Vigilância de Surtos da SMS-Rio. Essas relações são referências documentais e não implicam incorporação automática desses materiais ao acervo.",
+    "impacto": "<b>Sim — impacto direto na prática da APS.</b> A Nota Técnica organiza acolhimento, avaliação, estratificação de risco, manejo, rede de segurança, critérios de vaga zero, tratamento e acompanhamento de síndromes respiratórias agudas, além de orientar prevenção e articulação com a Vigilância em Saúde.",
+    "duvidas": "O cenário epidemiológico, as tecnologias preventivas e as recomendações descritas correspondem ao contexto e à atualização de 28/04/2026. A situação de vigência não foi determinada por verificação externa. Recomendações dependentes de disponibilidade de insumos, medicamentos, vacinas ou testes devem ser interpretadas no contexto operacional descrito no documento.",
+    "documento": "documentos/2026/SEI_000900.039055_2026_11.pdf",
+    "dataOrdenacao": "2026-04-28",
+    "extraLink": {
+      "rotulo": "Abrir fluxogramas — manejo respiratório pediátrico ↗",
+      "url": "documentos/2026/SEI_000900.039055_2026_11.pdf#page=19"
+    },
+    "fluxograma": {
+      "titulo": "Fluxogramas — avaliação e manejo dos quadros respiratórios agudos em crianças",
+      "texto": "Conjunto de quatro fluxogramas, a partir da página 19: avaliação inicial da criança de 0 a 5 anos com tosse e/ou dificuldade respiratória; bronquiolite viral aguda; manejo da asma ou sibilância em menores de cinco anos; e pneumonia adquirida na comunidade (PAC).",
+      "url": "documentos/2026/SEI_000900.039055_2026_11.pdf#page=19&view=FitH"
+    }
   }
 ]
