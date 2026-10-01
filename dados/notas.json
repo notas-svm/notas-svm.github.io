@@ -267,7 +267,16 @@
     "impacto": "<b>Sim — merece revisão clínica e operacional.</b> O documento altera critérios e formulário de solicitação da genotipagem, define situações prioritárias e critérios de falha virológica, amplia a recomendação de profissionais solicitantes na categoria pré-tratamento e modifica aspectos logísticos da coleta e processamento das amostras.",
     "duvidas": "A presença do documento em página oficial do Ministério da Saúde foi confirmada, mas o cadastro mantém o status documental como <b>Situação não determinada</b> por não ter sido realizada investigação específica de eventual revogação, substituição ou atualização posterior.",
     "documento": "documentos/2026/DOC-20260612-WA0061.pdf",
-    "dataOrdenacao": "2026-06-12"
+    "dataOrdenacao": "2026-06-12",
+    "extraLink": {
+      "rotulo": "Abrir fluxo — coleta, armazenamento e envio de amostras ↗",
+      "url": "documentos/2026/DOC-20260612-WA0061.pdf#page=5"
+    },
+    "fluxograma": {
+      "titulo": "Fluxo de coleta, armazenamento e envio de amostras",
+      "texto": "Acesso direto à parte final do documento com o fluxo operacional para coleta, armazenamento e envio de amostras para genotipagem do HIV-1.",
+      "url": "documentos/2026/DOC-20260612-WA0061.pdf#page=5&view=FitH"
+    }
   },
   {
     "id": "guia-chikungunya-2025",
