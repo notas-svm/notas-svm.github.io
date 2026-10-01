@@ -808,5 +808,92 @@
       "texto": "Fluxograma da Nota Técnica que organiza a avaliação conforme faixa etária e risco, articulando Vigilância Global do Desenvolvimento, M-CHAT, AQ-10, E-Multi DI, CAPSi e APS.",
       "url": "documentos/2026/NT%20SMSRJ_Fluxo%20eMulti%20DI_TEA_Set23.pdf#page=7&view=FitH"
     }
+  },
+  {
+    "id": "nt-bundibugyo-ebola-smsrio-19459-2026",
+    "search": "nota técnica doença vírus bundibugyo dvb ebola orthoebolavirus bundibugyoense febre hemorrágica viral fvh caso suspeito contactante comunicante vigilância epidemiológica cievs rio dvs cap urr unidade resposta rápida isolamento epi n95 pff2 notificação imediata sinan investigação viagem uganda república democrática congo rdc coleta amostra ini fiocruz transferência samu bombeiros aps atenção primária upa emergência hospital policlínica biossegurança monitoramento contatos 21 dias go.data",
+    "categorias": [
+      "Vigilância em Saúde",
+      "Doenças Infecciosas",
+      "Emergências em Saúde Pública",
+      "Atenção Primária"
+    ],
+    "status": "Situação não determinada",
+    "titulo": "Nota Técnica — Orientações frente a casos suspeitos de Doença pelo Vírus Bundibugyo (DVB) — Ebola",
+    "identificador": "Ofício SMS nº 19459/2026",
+    "linha": "03/06/2026 · SMS-Rio / SUBPAV / SVS / CIEVS",
+    "descricao": "Orienta a rede municipal sobre definição de caso, manejo inicial de casos suspeitos de Doença pelo Vírus Bundibugyo, notificação imediata, investigação, controle de infecção, monitoramento de contactantes e transferência.",
+    "resumo": [
+      "Nota Técnica da SMS-Rio/CIEVS sobre preparação da rede para identificação e manejo de casos suspeitos de Doença pelo Vírus Bundibugyo (DVB), no contexto da Emergência de Saúde Pública Internacional.",
+      "Detalha reconhecimento do caso suspeito, isolamento imediato, EPI, notificação ao CIEVS Rio e DVS, investigação e registro, transferência para referência, monitoramento de contactantes e medidas de biossegurança."
+    ],
+    "identificacao": "<b>Tipo:</b> Nota Técnica publicada por Ofício<br><b>Ofício:</b> SMS nº 19459/2026<br><b>Data:</b> 03/06/2026<br><b>Ano:</b> 2026<br><b>Órgão:</b> Secretaria Municipal de Saúde do Rio de Janeiro — SMS-Rio<br><b>Setor:</b> SUBPAV / Superintendência de Vigilância em Saúde / CIEVS Rio<br><b>Abrangência:</b> Município do Rio de Janeiro<br><b>Processo:</b> 000900.052993/2026-07<br><b>SEI:</b> 4642001 (Ofício) / 4642286 (Nota Técnica)<br><b>Status:</b> Situação não determinada",
+    "classificacao": "<b>Tema principal:</b> vigilância, identificação e manejo inicial de casos suspeitos de Doença pelo Vírus Bundibugyo (DVB) — Ebola.<br><b>População:</b> pessoas que atendam à definição de caso suspeito e seus contactantes/comunicantes.<br><b>Áreas:</b> Vigilância em Saúde; Doenças Infecciosas; Emergências em Saúde Pública; Biossegurança; Atenção Primária; Urgência e Emergência.",
+    "pontos": [
+      "O documento informa que, até sua data de divulgação, não havia casos suspeitos ou confirmados de DVB no Brasil.",
+      "A transmissão ocorre por contato direto com sangue, secreções ou fluidos corporais de pessoas ou animais infectados e por superfícies contaminadas; o período de incubação varia de 2 a 21 dias.",
+      "O Ebola é de notificação compulsória imediata; todo caso suspeito ou confirmado deve ser comunicado imediatamente ao CIEVS Rio e à Divisão de Vigilância em Saúde do território.",
+      "Serviços de porta de entrada, incluindo Unidades Básicas de Saúde, UPA, prontos-socorros e policlínicas, devem reconhecer o caso suspeito e realizar isolamento imediato.",
+      "O atendimento deve ser restrito ao mínimo necessário de profissionais, com paramentação conforme as orientações do documento e entrevista do caso suspeito.",
+      "Após acionamento, o CIEVS Rio articula a transferência para unidade de referência por equipe designada, conforme fluxo pactuado.",
+      "A nota determina que amostras de casos com suspeita de infecção pelo vírus Bundibugyo no município do Rio de Janeiro sejam coletadas exclusivamente no INI/Fiocruz; não devem ser coletadas amostras biológicas nas demais unidades de atenção à saúde.",
+      "Contactantes devem ser monitorados por 21 dias a partir da última exposição ao caso suspeito ou até o descarte do caso, com acompanhamento diário e comunicação imediata ao CIEVS Rio se surgirem sintomas.",
+      "O monitoramento dos contatos é realizado pela plataforma Go.Data sob coordenação do CIEVS Rio e apoio das Unidades de Resposta Rápida.",
+      "O Anexo 3 reúne os contatos das Divisões de Vigilância em Saúde por território de abrangência e o Anexo 4 apresenta o fluxograma de manejo inicial do caso suspeito."
+    ],
+    "versao": "<b>Versão identificada:</b> 03 de junho de 2026.<br><b>Base nacional declarada:</b> Nota Técnica Conjunta nº 160/2026/SVSA/SAES/MS.<br><b>Atualização:</b> a própria Nota Técnica informa que suas orientações poderão ser revisadas conforme a evolução epidemiológica e novas evidências.<br><b>Status:</b> situação não determinada.",
+    "conteudo": "Documento de 16 páginas com contextualização epidemiológica, informações sobre o vírus Bundibugyo, definição de caso e contactante, notificação, manejo inicial em serviços de saúde, controle de infecção, vigilância e monitoramento de contatos, recomendações para viajantes, transferência para hospitais de referência e manejo de corpos. Inclui ficha SINAN, questionário trilíngue, lista de contatos das DVS e fluxograma de manejo inicial.",
+    "tags": [
+      "Bundibugyo",
+      "vírus Bundibugyo",
+      "DVB",
+      "Ebola",
+      "Orthoebolavirus bundibugyoense",
+      "febre hemorrágica viral",
+      "FHV",
+      "caso suspeito",
+      "contactante",
+      "comunicante",
+      "CIEVS Rio",
+      "DVS",
+      "CAP",
+      "Unidade de Resposta Rápida",
+      "URR",
+      "notificação imediata",
+      "SINAN",
+      "isolamento",
+      "EPI",
+      "N95",
+      "PFF2",
+      "biossegurança",
+      "monitoramento 21 dias",
+      "Go.Data",
+      "Uganda",
+      "República Democrática do Congo",
+      "RDC",
+      "INI Fiocruz",
+      "SAMU",
+      "APS",
+      "UBS",
+      "UPA",
+      "emergência",
+      "vigilância epidemiológica",
+      "Ofício SMS 19459/2026",
+      "Nota Técnica 160/2026"
+    ],
+    "relacionados": "A Nota Técnica municipal se baseia expressamente na Nota Técnica Conjunta nº 160/2026/SVSA/SAES/MS e cita o Plano de Contingência Nacional para Febres Hemorrágicas Virais (2024), o Guia de Vigilância em Saúde (6ª ed., 2024), além de documentos da OMS/OPAS, CDC, ANVISA e Regulamento Sanitário Internacional. Esses documentos são referências citadas, sem presumir sua incorporação ao acervo.",
+    "impacto": "<b>Sim — impacto direto e de alta prioridade operacional na rede.</b> Define ações imediatas diante de suspeita em portas de entrada, inclusive APS: reconhecimento, isolamento, limitação de profissionais expostos, EPI, notificação imediata, investigação e transferência coordenada. Também orienta articulação com CIEVS Rio e DVS territoriais.",
+    "duvidas": "O cenário epidemiológico descrito corresponde à data da Nota Técnica (03/06/2026) e não deve ser interpretado como retrato epidemiológico atual sem nova verificação. A própria nota prevê revisão das orientações conforme evolução do cenário e novas evidências. Não foi realizada verificação externa de atualização posterior.",
+    "documento": "documentos/2026/Nota%20Te%CC%81cnica%20Doenc%CC%A7a%20pelo%20Vi%CC%81rus%20Bundibugyo%20(DVB)%20-%20Ebola%20-%20SVS_CIEVS%20Rio%2003.06.26%20-%20Ofi%CC%81cio%20SMS%20n%C2%BA%2019459_2026.pdf",
+    "dataOrdenacao": "2026-06-03",
+    "extraLink": {
+      "rotulo": "Abrir fluxograma — manejo inicial de caso suspeito ↗",
+      "url": "documentos/2026/Nota%20Te%CC%81cnica%20Doenc%CC%A7a%20pelo%20Vi%CC%81rus%20Bundibugyo%20(DVB)%20-%20Ebola%20-%20SVS_CIEVS%20Rio%2003.06.26%20-%20Ofi%CC%81cio%20SMS%20n%C2%BA%2019459_2026.pdf#page=16"
+    },
+    "fluxograma": {
+      "titulo": "Fluxograma — manejo inicial de caso suspeito de DVB (Ebola)",
+      "texto": "Fluxograma do Anexo 4 para serviços de saúde de porta de entrada (APS, UPA, emergência, hospitais e policlínicas): identificação do caso suspeito, isolamento imediato, notificação e comunicação em até 24 horas, investigação e registro e acionamento para transferência.",
+      "url": "documentos/2026/Nota%20Te%CC%81cnica%20Doenc%CC%A7a%20pelo%20Vi%CC%81rus%20Bundibugyo%20(DVB)%20-%20Ebola%20-%20SVS_CIEVS%20Rio%2003.06.26%20-%20Ofi%CC%81cio%20SMS%20n%C2%BA%2019459_2026.pdf#page=16&view=FitH"
+    }
   }
 ]
